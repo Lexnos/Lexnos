@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Ruben Silguero</h1>
 <h3 align="center">A friendly Game Designer</h3>
 
-- 🔭 I’m currently working on **TheSpaceVR**
+- 🔭 I’m currently working on **TheHomeVR**
 
 - 🌱 I’m currently learning **VR Development**
 
-- 👯 Collaborating on **a survival 3rd person game**
+- 👯 Collaborating on **a GGJ2024 Game**
 
 - 👨‍💻 All of my projects are currently available at [https://rubendsc.wixsite.com/portfolio](https://rubendsc.wixsite.com/portfolio)
 
