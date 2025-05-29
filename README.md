@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[LinkedIn](https://www.linkedin.com/in/ruben-silguero-chiquin-22397ba5/)
+(https://www.linkedin.com/in/ruben-silguero-chiquin-22397ba5/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
